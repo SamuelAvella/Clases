@@ -1,0 +1,14 @@
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Clases\bin\Debug\Clases.exe.config
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Clases\bin\Debug\Clases.exe
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Clases\bin\Debug\Clases.pdb
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Clases\obj\Debug\Clases.exe
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Clases\obj\Debug\Clases.pdb
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Clases\Cuenta\bin\Debug\Clases.exe.config
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Clases\Cuenta\bin\Debug\Clases.exe
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Clases\Cuenta\bin\Debug\Clases.pdb
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Clases\Cuenta\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Clases\Cuenta\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Clases\Cuenta\obj\Debug\Clases.exe
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Clases\Cuenta\obj\Debug\Clases.pdb

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\Clases\\Cuenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5A1B1F-1A99-4C0C-9F60-42046C330E4B}|Clases.csproj|c:\\users\\saveper1907\\desktop\\2dam\\di\\c#\\clases\\cuenta\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5A1B1F-1A99-4C0C-9F60-42046C330E4B}|Clases.csproj|solutionrelative:cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Clases||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clases",
+              "DocumentMoniker": "C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\Clases\\Cuenta\\Clases.csproj",
+              "RelativeDocumentMoniker": "Clases.csproj",
+              "ToolTip": "C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\Clases\\Cuenta\\Clases.csproj",
+              "RelativeToolTip": "Clases.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-29T12:34:57.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\Clases\\Cuenta\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Cuenta.cs",
+              "ToolTip": "C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\Clases\\Cuenta\\Cuenta.cs",
+              "RelativeToolTip": "Cuenta.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwDcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:24:55.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
